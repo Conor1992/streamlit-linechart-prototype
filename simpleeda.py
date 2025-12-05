@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/18olv0ma-RDf5C0MYr0BJ0ih9CChA0TCl
 """
 
-!pip install streamlit
-!pip install seaborn
-!pip install matplotlib
+#!pip install streamlit
+#!pip install seaborn
+#!pip install matplotlib
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
